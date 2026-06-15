@@ -106,8 +106,8 @@ def draw_help():
         "5. Lines can be horizontal, vertical or diagonal.",
         "6. Press U to undo your last move.",
         "7. Press R to restart a new game.",
-        "8. If the board is full with no winner, it's a draw."
-        "9. You always go first when you play with AI"
+        "8. If the board is full with no winner, it's a draw.",
+        "9. You always go first when you play with AI."
     ]
     y_offset = 130
     for line in rules:
